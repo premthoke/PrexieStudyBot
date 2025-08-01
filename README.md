@@ -18,7 +18,7 @@ A cloud-based chatbot that provides study tips, motivation, hydration reminders,
 - **Dialogflow ES** – Natural language understanding and intent recognition
 - **Google Cloud Platform (GCP)** – Host Dialogflow agent
 - **Firebase** (by Google) – Dialogflow backend (optional default)
-- **Netlify** – Static site hosting with HTTPS
+- **Netlify** – Static site hosting with HTTP'S
 
 --- 
 
